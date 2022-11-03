@@ -1,0 +1,4 @@
+repository "Project Dark Mansion@Kuhageims@cloud"
+  path "/"
+    br "/main"
+    co "/main"
